@@ -49,5 +49,4 @@ public class BlogRestApiApplication implements CommandLineRunner {
 		}
 
 	}
-
 }
