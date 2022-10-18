@@ -47,6 +47,5 @@ public class BlogRestApiApplication implements CommandLineRunner {
 			userRole.setName(roleUser);
 			roleRepository.save(userRole);
 		}
-
 	}
 }
